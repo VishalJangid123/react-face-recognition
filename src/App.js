@@ -2,14 +2,14 @@ import React from "react";
 import "./App.css";
 import Home from "./components/Home";
 import Video from "./components/video";
-import { Routes, Route } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 
 const App = () => {
   return (
     <>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/video" element={<Video />} />
+       <Routes>
+       <Route path="/" element={<Home />} />
+       <Route path="/video" element={<Video />} />
       </Routes>
     </>
   );
