@@ -2,6 +2,10 @@
 
 This project is a **React application** that uses **TensorFlow.js** to perform **face landmark detection** on images or live video from a webcam. Users can either upload an image or enable their webcam, and the app will detect and mark facial landmarks in real time.
 
+## Live Demo
+ - Video : https://vishaljangid123.github.io/react-face-recognition/#/video
+ - Image : https://vishaljangid123.github.io/react-face-recognition/
+
 ## Tech Stack
 
 - **React**
