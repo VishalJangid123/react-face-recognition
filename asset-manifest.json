@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0402fe7.css",
-    "main.js": "/static/js/main.7e8bd14a.js",
-    "static/js/488.c5ff10e6.chunk.js": "/static/js/488.c5ff10e6.chunk.js",
-    "static/media/sample1.png": "/static/media/sample1.f480346c1ff51dd04cab.png",
-    "index.html": "/index.html",
-    "main.a0402fe7.css.map": "/static/css/main.a0402fe7.css.map",
-    "main.7e8bd14a.js.map": "/static/js/main.7e8bd14a.js.map",
-    "488.c5ff10e6.chunk.js.map": "/static/js/488.c5ff10e6.chunk.js.map"
+    "main.css": "/react-face-recognition/static/css/main.a0402fe7.css",
+    "main.js": "/react-face-recognition/static/js/main.c9fab5ba.js",
+    "static/js/488.c5ff10e6.chunk.js": "/react-face-recognition/static/js/488.c5ff10e6.chunk.js",
+    "static/media/sample1.png": "/react-face-recognition/static/media/sample1.f480346c1ff51dd04cab.png",
+    "index.html": "/react-face-recognition/index.html",
+    "main.a0402fe7.css.map": "/react-face-recognition/static/css/main.a0402fe7.css.map",
+    "main.c9fab5ba.js.map": "/react-face-recognition/static/js/main.c9fab5ba.js.map",
+    "488.c5ff10e6.chunk.js.map": "/react-face-recognition/static/js/488.c5ff10e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0402fe7.css",
-    "static/js/main.7e8bd14a.js"
+    "static/js/main.c9fab5ba.js"
   ]
 }
